@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { initialMessages } from "./assets/initialMessages"
+import { initialMessages } from "./Assets/initialMessages"
 import Footer from "./Components/Footer/Footer"
 import Header from "./Components/Header/Header"
 import Main from "./Components/Main/Main"
